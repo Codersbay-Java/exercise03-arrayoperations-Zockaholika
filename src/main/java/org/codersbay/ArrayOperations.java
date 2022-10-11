@@ -22,7 +22,7 @@ public class ArrayOperations {
      */
 
     public void print() {
-
+        System.out.println(numbers);
     }
 
     /**
